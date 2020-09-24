@@ -74,7 +74,8 @@ class Login extends Component {
                                 <a class="rotate-btn" data-card="card-1"><i class="fas fa-redo-alt"></i> Click here to rotate</a>
                             </div>
                         </div>
-                        {/* This is integration Branch 1 */}
+                        {/* This is integration Branch original*/}
+
                         <div class="face back">
                             <div class="card-body">
 
