@@ -74,7 +74,7 @@ class Login extends Component {
                                 <a class="rotate-btn" data-card="card-1"><i class="fas fa-redo-alt"></i> Click here to rotate</a>
                             </div>
                         </div>
-
+                        {/* Card */}
                         <div class="face back">
                             <div class="card-body">
 
